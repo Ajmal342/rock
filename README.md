@@ -1,26 +1,39 @@
-## WhatsApp User Bot
+## WELCOME S-U-G-U-V-1💝
 
-This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
+<p align="center">
+<a href="https://github.com/Ajmal342"><img title="S-U-G-U-V-1" src="https://i.imgur.com/amjvcay.jpeg-Ajmal342?color=blue&style=for-the-badge&logo=github"><
 
-## What is WhatsAsena?
 
-**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+S-U-G-U-V-1+WA+Bot+repo;Created+by+A-J-M-A-L+SER;This+is+the+Best++feature+bot;With+more+features)
 
-## Setup
 
-1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (ASENA_SESSION).
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Now click [DEPLOY](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) and Follow.
+
+
+ 
+
+
+## SETUP💖
+
+
+
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/ptZQMDk.jpeg" width="170" height="170"/>
+  <p align="center">
+
+**S-U-G-U-V-1**,is a WhatsApp bot written by [A-J-M-A-L](https://github.com/Ajmal342).
+## ⏬⏬
+
+1.[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@GAMING-WITHWI40/baileys-qr#index.js)
+
+2.[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Ajmal342/rock&template=https://github.com/Ajmal342/rock)  
+   
    <br>
-   <a href="https://youtu.be/G4KknEgKWoA"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
-   <br>
-   <a href="https://chat.whatsapp.com/Ear1cUkcdvW4idBD9jqmyj"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+   <a href="https://chat.whatsapp.com/GcwhD3dLUxp1fjWzwYkY0u"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
+<a href="https://github.com/Ajmal342/S-U-G-U-V-1/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
 <!--
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@GAMING-WITHWI40/A-J-M-A-L#index.js)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
 
@@ -106,5 +119,5 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 
 ## Thanks To
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [A-J-M-A-L](https://github.com/Ajmal342) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
